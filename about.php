@@ -69,7 +69,7 @@
             	<div class="clearfix">
                 	
                 	<div class="pull-left logo-box">
-                    	<div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
+                    	<div class="logo"><a href="index.php"><img src="images/logo.png" alt="" title=""></a></div>
                     </div>
                    	
                    	<div class="nav-outer clearfix">
@@ -86,7 +86,7 @@
 
 							<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 								<ul class="navigation clearfix">
-									<li class=""><a href="index-3.html">Home</a>
+									<li class=""><a href="index.php">Home</a>
 										
 									</li>
 									<li class=""><a href="#">About Us</a>
@@ -156,7 +156,7 @@
                         
                         <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent1">
                             <ul class="navigation clearfix">
-                                <li class=""><a href="index-3.html">Home</a>
+                                <li class=""><a href="index.php.html">Home</a>
 									
 								</li>
 								<li class=""><a href="#">About Us</a>
@@ -188,7 +188,7 @@
 			<div class="content">
 				<h1>About <span>Us</span></h1>
 				<ul class="page-breadcrumb">
-					<li><a href="index-3.html">Home</a></li>
+					<li><a href="index.php.html">Home</a></li>
 					<li>Pages</li>
 					<li>About Us</li>
 				</ul>
@@ -254,7 +254,7 @@
 				<!-- Content Column -->
 				<div class="image-column col-lg-5 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<div class="image-1"><img src="images/resource/about-2.jpg" alt=""></div>
+						<div class="image-1"><img src="images/resource/about-2.png" alt=""></div>
 						<div class="image-2"><img src="images/resource/about-3.jpg" alt=""></div>
 					</div>
 				</div>
@@ -269,7 +269,7 @@
 							<!--Skill Item-->
 							<div class="skill-item">
 								<div class="skill-header clearfix">
-									<div class="skill-title">Finance</div>
+									<div class="skill-title">Mobile App Development</div>
 									<div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="95">0</span>%</div></div>
 								</div>
 								<div class="skill-bar">
@@ -280,7 +280,7 @@
 							<!--Skill Item-->
 							<div class="skill-item">
 								<div class="skill-header clearfix">
-									<div class="skill-title">Business</div>
+									<div class="skill-title">Desktop App Development</div>
 									<div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="90">0</span>%</div></div>
 								</div>
 								<div class="skill-bar">
@@ -291,7 +291,7 @@
 							<!--Skill Item-->
 							<div class="skill-item">
 								<div class="skill-header clearfix">
-									<div class="skill-title">Investment</div>
+									<div class="skill-title">Web Development</div>
 									<div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="93">0</span>%</div></div>
 								</div>
 								<div class="skill-bar">
@@ -394,138 +394,11 @@
 	</section>
 	<!-- End Feature Section -->
 	
-	<!--Main Footer-->
-    <footer class="main-footer">
-    	<div class="auto-container">
-        	<!--Widgets Section-->
-            <div class="widgets-section">
-            	<div class="row clearfix">
-                	
-                    <!--Column-->
-                    <div class="big-column col-lg-6 col-md-12 col-sm-12">
-						<div class="row clearfix">
-						
-                        	<!--Footer Column-->
-                            <div class="footer-column col-lg-7 col-md-6 col-sm-12">
-                                <div class="footer-widget logo-widget">
-									<div class="logo">
-										<a href="index-3.html"><img src="images/footer-logo.png" alt="" /></a>
-									</div>
-									<div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</div>
-									<ul class="list-style-two">
-										<li><span class="icon fa fa-phone"></span> +123 (4567) 890</li>
-										<li><span class="icon fa fa-envelope"></span> info@financ.com</li>
-										<li><span class="icon fa fa-home"></span>380 St Kilda Road, Melbourne <br> VIC 3004, Australia</li>
-									</ul>
-								</div>
-							</div>
-							
-							<!--Footer Column-->
-                            <div class="footer-column col-lg-5 col-md-6 col-sm-12">
-                                <div class="footer-widget links-widget">
-									<h4>Links</h4>
-									<ul class="list-link">
-										<li><a href="index-3.html">Home</a></li>
-										<li><a href="services-2.html">Services</a></li>
-										<li><a href="about.html">About us</a></li>
-										<li><a href="">Testimonials</a></li>
-										<li><a href="">News</a></li>
-										<li><a href="contact.html">Contact</a></li>
-									</ul>
-								</div>
-							</div>
+<?php
 
-						</div>
-					</div>
-					
-					<!--Column-->
-                    <div class="big-column col-lg-6 col-md-12 col-sm-12">
-						<div class="row clearfix">
-						
-                        	<!--Footer Column-->
-                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
-                                <div class="footer-widget links-widget">
-									<h4>Support</h4>
-									<ul class="list-link">
-										<li><a href="contact.html">Contact Us</a></li>
-										<li><a href="">Submit a Ticket</a></li>
-										<li><a href="">Visit Knowledge Base</a></li>
-										<li><a href="">Support System</a></li>
-										<li><a href="">Refund Policy</a></li>
-										<li><a href="">Professional Services</a></li>
-									</ul>
-								</div>
-							</div>
-							
-							<!--Footer Column-->
-                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
-                                <div class="footer-widget gallery-widget">
-									<h4>Technology we usey</h4>
-									<div class="widget-content">
-										<div class="images-outer clearfix">
-											<!--Image Box-->
-											<figure class="image-box"><a href="images/gallery/1.jpg" class="lightbox-image" data-fancybox="footer-gallery" title="Image Title Here" data-fancybox-group="footer-gallery"><img src="images/gallery/footer-gallery-thumb-1.jpg" alt=""></a></figure>
-											<!--Image Box-->
-											<figure class="image-box"><a href="images/gallery/2.jpg" class="lightbox-image" data-fancybox="footer-gallery" title="Image Title Here" data-fancybox-group="footer-gallery"><img src="images/gallery/footer-gallery-thumb-2.jpg" alt=""></a></figure>
-											<!--Image Box-->
-											<figure class="image-box"><a href="images/gallery/3.jpg" class="lightbox-image" data-fancybox="footer-gallery" title="Image Title Here" data-fancybox-group="footer-gallery"><img src="images/gallery/footer-gallery-thumb-3.jpg" alt=""></a></figure>
-											<!--Image Box-->
-											<figure class="image-box"><a href="images/gallery/4.jpg" class="lightbox-image" data-fancybox="footer-gallery" title="Image Title Here" data-fancybox-group="footer-gallery"><img src="images/gallery/footer-gallery-thumb-4.jpg" alt=""></a></figure>
-											<!--Image Box-->
-											<figure class="image-box"><a href="images/gallery/5.jpg" class="lightbox-image" data-fancybox="footer-gallery" title="Image Title Here" data-fancybox-group="footer-gallery"><img src="images/gallery/footer-gallery-thumb-5.jpg" alt=""></a></figure>
-											<!--Image Box-->
-											<figure class="image-box"><a href="images/gallery/6.jpg" class="lightbox-image" data-fancybox="footer-gallery" title="Image Title Here" data-fancybox-group="footer-gallery"><img src="images/gallery/footer-gallery-thumb-6.jpg" alt=""></a></figure>
-										</div>
-									</div>
-								</div>
-							</div>
-							
-						</div>
-					</div>
-					
-				</div>
-			</div>
-		</div>
-		<!-- Footer Bottom -->
-		<div class="footer-bottom">
-			<div class="auto-container">
-				<div class="row clearfix">
-					
-					<!-- Copyright Column -->
-					<div class="copyright-column col-lg-6 col-md-6 col-sm-12">
-						<div class="copyright">2019 &copy; All rights reserved by <a href="#">Themexriver</a></div>
-					</div>
-					
-					<!-- Social Column -->
-					<div class="social-column col-lg-6 col-md-6 col-sm-12">
-						<ul>
-							<li class="follow">Follow us: </li>
-							<li><a href="#"><span class="fa fa-facebook-square"></span></a></li>
-							<li><a href="#"><span class="fa fa-twitter-square"></span></a></li>
-							<li><a href="#"><span class="fa fa-linkedin-square"></span></a></li>
-							<li><a href="#"><span class="fa fa-google-plus-square"></span></a></li>
-							<li><a href="#"><span class="fa fa-rss-square"></span></a></li>
-						</ul>
-					</div>
-					
-				</div>
-			</div>
-		</div>
-	</footer>
-	
-</div>
-<!--End pagewrapper-->
+    include 'footer.php';
 
-<script src="js/jquery.js"></script>
-<script src="js/popper.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-<script src="js/jquery.fancybox.js"></script>
-<script src="js/appear.js"></script>
-<script src="js/owl.js"></script>
-<script src="js/wow.js"></script>
-<script src="js/jquery-ui.js"></script>
-<script src="js/main.js"></script>
+     ?>
 
 </body>
 </html>
