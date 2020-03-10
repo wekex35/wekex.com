@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Wekex</title>
-<!-- Stylesheets -->
+<!-- Stylesheets  -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
@@ -1085,7 +1085,7 @@ Faster and Flexible.</a></h6>
                             data-type="roadmap"
                             data-hue="#ffc400"
                             data-title="Envato"
-                            data-icon-path="images/icons/map-marker.png"
+                            data-icon-path="images/favicon.png"
                             data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">
                         </div>
                     </div>
