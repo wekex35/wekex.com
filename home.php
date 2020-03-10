@@ -1061,3 +1061,11 @@ Faster and Flexible.</a></h6>
     <!--End Map Info Section-->
 	
 	<!--Main Footer-->
+    <?php
+
+    include 'footer.php';
+
+     ?>
+
+</body>
+</html>

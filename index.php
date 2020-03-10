@@ -51,7 +51,7 @@ array_splice($path, 1, 1);
 		<?php 
 			if ($path[1] != "home" && strlen($path[1]) > 0) {
 		      include 'header.php';
-				}
+			 }
 		?>
 		
     </header>
@@ -82,11 +82,8 @@ switch ($path[1]) {
 		break;
 }
 
-
-		     
-				
-include 'footer.php';
-
+if ($path[1] != "home" && strlen($path[1]) > 0 ) {
+	include 'footer.php';
 ?>
 
 	
@@ -111,3 +108,9 @@ include 'footer.php';
 </body>
 </html>
 
+<?php 
+
+}
+	
+
+?>
