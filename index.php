@@ -108,9 +108,9 @@
 								<li class=""><a href="about.php">About Us</a>
 									
 								</li>
-								<li class=""><a href="about.php">Technology</a>
+								<!-- <li class=""><a href="about.php">Technology</a>
 									
-								</li>
+								</li> -->
 								<li class=""><a href="services.php">Services</a>
 									
 								</li>
@@ -138,7 +138,7 @@
 					<div class="auto-container" >
 						<div class="content">
 							<h1 class="alternate">We take extra care <span class="alternate">of your Business</span></h1>
-							<div class="text alternate">We manage financial services with your satisfaction</div>
+							<div class="text alternate">We manage IT/IOT with your satisfaction</div>
 							<div class="link-box">
 								<a href="contact.php" class="theme-btn btn-style-six">Let’s start now</a> <a href="contact.php" class="theme-btn btn-style-seven">View portfolio</a>
 							</div>
