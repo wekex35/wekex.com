@@ -1,3 +1,4 @@
+
 <div class="header-top">
             <div class="auto-container">
                 <div class="inner-container clearfix">
@@ -20,7 +21,7 @@
             	<div class="clearfix">
                 	
                 	<div class="pull-left logo-box">
-                    	<div class="logo"><a href="index.php"><img src="images/logo.png" alt="" title=""></a></div>
+                    	<div class="logo"><a href="home"><img src="images/logo.png" alt="" title=""></a></div>
                     </div>
                    	
                    	<div class="nav-outer clearfix">
@@ -37,20 +38,20 @@
 
 							<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 								<ul class="navigation clearfix">
-									<li class=""><a href="index.php">Home</a>
+									<li class=""><a href="home">Home</a>
 										
 									</li>
-									<li class=""><a href="about.php">About Us</a>
+									<li class=""><a href="about">About Us</a>
 										
 									</li>
-									<!-- <li class=""><a href="about.php">Technology</a>
+									<!-- <li class=""><a href="about">Technology</a>
 									
 								    </li> -->
-									<li class="current "><a href="services.php">Services</a>
+									<li class="current "><a href="services">Services</a>
 										
 									</li>
 									
-									<li><a href="contact.php">Contact us</a></li>
+									<li><a href="contact">Contact us</a></li>
 								</ul>
 							</div>
 							
@@ -66,7 +67,7 @@
 									<ul class="dropdown-menu pull-right search-panel" aria-labelledby="dropdownMenu3">
 										<li class="panel-outer">
 											<div class="form-container">
-												<form method="post" action="blog.php">
+												<form method="post" action="blog">
 													<div class="form-group">
 														<input type="search" name="field-name" value="" placeholder="Search Here" required>
 														<button type="submit" class="search-btn"><span class="fa fa-search"></span></button>
@@ -92,7 +93,7 @@
         	<div class="auto-container clearfix">
             	<!--Logo-->
             	<div class="logo pull-left">
-                	<a href="index.php" class="img-responsive"><img src="images/logo-small.png" alt="" title=""></a>
+                	<a href="index" class="img-responsive"><img src="images/logo-small.png" alt="" title=""></a>
                 </div>
                 
                 <!--Right Col-->
@@ -107,20 +108,20 @@
                         
                         <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent1">
                             <ul class="navigation clearfix">
-                                <li class=""><a href="index.php">Home</a>
+                                <li class=""><a href="home">Home</a>
 									
 								</li>
 								<li class=""><a href="#">About Us</a>
 									
 								</li>
-								<!-- <li class=""><a href="about.php">Technology</a>
+								<!-- <li class=""><a href="about">Technology</a>
 									
 								</li> -->
 								<li class="current "><a href="#">Services</a>
 									
 								</li>
 								
-								<li><a href="contact.php">Contact us</a></li>
+								<li><a href="contact">Contact us</a></li>
                             </ul>
                         </div>
                     </nav><!-- Main Menu End-->
@@ -128,4 +129,4 @@
                 
             </div>
         </div>
-        <!--End Sticky Header
+      

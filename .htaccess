@@ -1,0 +1,10 @@
+# Rewrite Engine ON
+RewriteEngine on
+
+
+
+# Redirect everything to one file
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule . index.php [L]
+

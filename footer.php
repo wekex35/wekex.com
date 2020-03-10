@@ -12,7 +12,7 @@
                             <div class="footer-column col-lg-7 col-md-6 col-sm-12">
                                 <div class="footer-widget logo-widget">
 									<div class="logo">
-										<a href="index.php"><img src="images/footer-logo.png" alt="" /></a>
+										<a href="home"><img src="images/footer-logo.png" alt="" /></a>
 									</div>
 									<div class="text">We work to make something great.</div>
 									<ul class="list-style-two">
@@ -28,11 +28,11 @@
                                 <div class="footer-widget links-widget">
 									<h4>Links</h4>
 									<ul class="list-link">
-										<li><a href="index.php">Home</a></li>
-										<li><a href="services.php">Services</a></li>
-										<li><a href="about.php">About us</a></li>
+										<li><a href="home">Home</a></li>
+										<li><a href="services">Services</a></li>
+										<li><a href="about">About us</a></li>
 										<li><a href="">Tecnology</a></li>
-										<li><a href="contact.php">Contact</a></li>
+										<li><a href="contact">Contact</a></li>
 									</ul>
 								</div>
 							</div>
@@ -49,12 +49,12 @@
                                 <div class="footer-widget links-widget">
 									<h4>Support</h4>
 									<ul class="list-link">
-										<li><a href="contact.php">Contact Us</a></li>
+										<li><a href="contact">Contact Us</a></li>
 										<!-- <li><a href="">Submit a Ticket</a></li>
 										<li><a href="">Visit Knowledge Base</a></li>
 										<li><a href="">Support System</a></li>
 										<li><a href="">Refund Policy</a></li> -->
-										<li><a href="services.php">Professional Services</a></li>
+										<li><a href="services">Professional Services</a></li>
 									</ul>
 								</div>
 							</div>
