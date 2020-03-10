@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Finano Consulting HTML Template | Homepage Three</title>
+<title>Wekex</title>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
@@ -35,7 +35,7 @@
             	<div class="clearfix">
                 	
                 	<div class="pull-left logo-box">
-                    	<div class="logo"><a href="index.html"><img src="images/logo-3.png" alt="" title="" style="border-radius: 0px 0px 30px 30px"></a></div>
+                    	<div class="logo"><a href="index.php"><img src="images/logo-3.png" alt="" title="" style="border-radius: 0px 0px 30px 30px"></a></div>
                     </div>
                    	
                    	<div class="nav-outer clearfix">
@@ -56,15 +56,15 @@
 										
 									</li>
 									<li class=""><a href="about.php">About Us</a>
-									<li class=""><a href="about.php">Technology</a>
+								<!-- 	<li class=""><a href="about.php">Technology</a>
 									
-								    </li>	
+								    </li>	 -->
 									</li>
-									<li class=""><a href="services-2.html">Services</a>
+									<li class=""><a href="services.php">Services</a>
 										
 									</li>
 									
-									<li><a href="contact.html">Contact us</a></li>
+									<li><a href="contact.php">Contact us</a></li>
 								</ul>
 							</div>
 							
@@ -87,7 +87,7 @@
         	<div class="auto-container clearfix">
             	<!--Logo-->
             	<div class="logo pull-left">
-                	<a href="index.html" class="img-responsive"><img src="images/logo-small.png" alt="" title=""></a>
+                	<a href="index.php" class="img-responsive"><img src="images/logo-small.png" alt="" title=""></a>
                 </div>
                 
                 <!--Right Col-->
@@ -105,17 +105,17 @@
                                 <li class=" "><a href="#">Home</a>
 									
 								</li>
-								<li class=""><a href="about.html">About Us</a>
+								<li class=""><a href="about.php">About Us</a>
 									
 								</li>
-								<li class=""><a href="about.html">Technology</a>
+								<li class=""><a href="about.php">Technology</a>
 									
 								</li>
-								<li class=""><a href="services-2.html">Services</a>
+								<li class=""><a href="services.php">Services</a>
 									
 								</li>
 								
-								<li><a href="contact.html">Contact us</a></li>
+								<li><a href="contact.php">Contact us</a></li>
                             </ul>
                         </div>
                     </nav><!-- Main Menu End-->
@@ -140,7 +140,7 @@
 							<h1 class="alternate">We take extra care <span class="alternate">of your Business</span></h1>
 							<div class="text alternate">We manage financial services with your satisfaction</div>
 							<div class="link-box">
-								<a href="contact.html" class="theme-btn btn-style-six">Let’s start now</a> <a href="contact.html" class="theme-btn btn-style-seven">View portfolio</a>
+								<a href="contact.php" class="theme-btn btn-style-six">Let’s start now</a> <a href="contact.php" class="theme-btn btn-style-seven">View portfolio</a>
 							</div>
 						</div>
 					</div>	
@@ -152,9 +152,9 @@
 					<div class="auto-container">
 						<div class="content">
 							<h1 class="alternate">We take extra care <span class="alternate">of your Business</span></h1>
-							<div class="text alternate">We manage financial services with your satisfaction</div>
+							<div class="text alternate">We manage IT/IOT world with your satisfaction</div>
 							<div class="link-box">
-								<a href="contact.html" class="theme-btn btn-style-six">Let’s start now</a> <a href="contact.html" class="theme-btn btn-style-seven">View portfolio</a>
+								<a href="contact.php" class="theme-btn btn-style-six">Let’s start now</a> <a href="contact.php" class="theme-btn btn-style-seven">View portfolio</a>
 							</div>
 						</div>
 					</div>
@@ -217,7 +217,7 @@
 							<span class="icon flaticon-business-and-finance-1"></span>
 						</div>
 						<h6><a href="#">E-Commerce Solutions</a></h6>
-						<div class="text">As a professional retail & ecommerce web/app development company, we develop exceptionally original e-commerce solutions for small and mid-scale businesses of industry verticals viz. real estate, healthcare, apparels, retail and more. Our eCommerce development team is committed to delivering solutions on time and within the budget. </div>
+						<div class="text">As a professional retail & ecommerce web/app development company, we develop exceptionally original e-commerce solutions for small and mid-scale businesses of industry verticals <!-- viz. real estate, healthcare, apparels, retail and more. Our eCommerce development team is committed to delivering solutions on time and within the budget. --> </div>
 					</div>
 				</div>
 				
@@ -246,7 +246,7 @@
 			</div>
 			<!-- Services Text -->
 			<!-- <div class="services-text">
-				<div class="text">We are very happy to give the best service.  <a href="services.html">Let’s view all services</a></div>
+				<div class="text">We are very happy to give the best service.  <a href="services.php">Let’s view all services</a></div>
 			</div> -->
 			
 		</div>
@@ -685,14 +685,14 @@ Faster and Flexible.</a></h6>
 															<div class="icon-box">
 																<span class="icon flaticon-help"></span>
 															</div>
-															<h5><a href="#">Generate Ideas</a></h5>
-															<div class="text">The argument in favor of using filler text goes some thing like this</div>
+															<h5><a href="#">Web Experts</a></h5>
+															<div class="text">We shape your idea into a revolutionary web application and website</div>
 															<!-- Overlay Box -->
 															<div class="overlay-box">
 																<div class="overlay-inner">
 																	<div class="content">
-																		<h6><a href="#">Top security</a></h6>
-																		<div class="text">The argument in favor of using filler text goes some thing like this</div>
+																		<h6><a href="#">Web Experts</a></h6>
+																		<div class="text">We are to transform your idea and dreams into reality in form of web appication and website</div>
 																	</div>
 																</div>
 															</div>
@@ -705,14 +705,14 @@ Faster and Flexible.</a></h6>
 															<div class="icon-box">
 																<span class="icon flaticon-comment-1"></span>
 															</div>
-															<h5><a href="#">Risk Manage</a></h5>
-															<div class="text">The argument in favor of using filler text goes some thing like this</div>
+															<h5><a href="#">Mobile And Desktop App Experts</a></h5>
+															<div class="text">Your App is an extension of your business. </div>
 															<!-- Overlay Box -->
 															<div class="overlay-box">
 																<div class="overlay-inner">
 																	<div class="content">
-																		<h6><a href="#">Risk Manage</a></h6>
-																		<div class="text">The argument in favor of using filler text goes some thing like this</div>
+																		<h6><a href="#">App Experts</a></h6>
+																		<div class="text">Our Primary concern is to provide our clients the best App Development Services through expertise, methodologies and development method.</div>
 																	</div>
 																</div>
 															</div>
@@ -729,14 +729,14 @@ Faster and Flexible.</a></h6>
 															<div class="icon-box">
 																<span class="icon flaticon-research"></span>
 															</div>
-															<h5><a href="#">Revenue Growth</a></h5>
-															<div class="text">The argument in favor of using filler text goes some thing like this</div>
+															<h5><a href="#">IOT Experts</a></h5>
+															<div class="text">Our IOT team comprise of Industrial and Home IOTS experts</div>
 															<!-- Overlay Box -->
 															<div class="overlay-box">
 																<div class="overlay-inner">
 																	<div class="content">
-																		<h6><a href="#">Revenue Growth</a></h6>
-																		<div class="text">The argument in favor of using filler text goes some thing like this</div>
+																		<h6><a href="#">IOT Experts</a></h6>
+																		<div class="text">We are here to do R&D for your Idea to Autopmate your Industry and Home  </div>
 																	</div>
 																</div>
 															</div>
@@ -749,14 +749,14 @@ Faster and Flexible.</a></h6>
 															<div class="icon-box">
 																<span class="icon flaticon-help"></span>
 															</div>
-															<h5><a href="#">Fast Support</a></h5>
-															<div class="text">The argument in favor of using filler text goes some thing like this</div>
+															<h5><a href="#">AI/ML Experts</a></h5>
+															<div class="text">Our team continuosly doing lots of R&D to get best out of this Information Age</div>
 															<!-- Overlay Box -->
 															<div class="overlay-box">
 																<div class="overlay-inner">
 																	<div class="content">
-																		<h6><a href="#">Fast Support</a></h6>
-																		<div class="text">The argument in favor of using filler text goes some thing like this</div>
+																		<h6><a href="#">AI/ML Experts</a></h6>
+																		<div class="text">Our team continuosly doing lots pf R&D to get best out of this Information Age</div>
 																	</div>
 																</div>
 															</div>
@@ -954,7 +954,7 @@ Faster and Flexible.</a></h6>
 	<!-- Call To Action -->
 	<section class="call-to-action" style="background-image:url(images/background/3.jpg);">
 		<div class="auto-container">
-			<h2>Have a great opportunity to <br> manage your <span>finance</span></h2>
+			<h2>Have a great opportunity to <br> manage your <span>IT world</span></h2>
 			<div class="btns-box">
 				<a href="#"><img src="images/icons/app-btn.png" alt="" /></a>
 				<a href="#"><img src="images/icons/google-btn.png" alt="" /></a>
@@ -992,7 +992,7 @@ Faster and Flexible.</a></h6>
 								<li><span class="fa fa-calendar"></span>September 12, 2019</li>
 								<li><span class="fa fa-user"></span>Admin</li>
 							</ul>
-							<h5><a href="blog-single.html">Strategy for Norway's Peion Fund Global.</a></h5>
+							<h5><a href="blog-single.php">Strategy for Norway's Peion Fund Global.</a></h5>
 							<a href="#" class="theme-btn btn-style-eighteen">View more</a>
 						</div>
 					</div>
@@ -1012,7 +1012,7 @@ Faster and Flexible.</a></h6>
 								<li><span class="fa fa-calendar"></span>September 12, 2019</li>
 								<li><span class="fa fa-user"></span>Admin</li>
 							</ul>
-							<h5><a href="blog-single.html">What we are capable of usually gets discovered.</a></h5>
+							<h5><a href="blog-single.php">What we are capable of usually gets discovered.</a></h5>
 							<a href="#" class="theme-btn btn-style-eighteen">View more</a>
 						</div>
 					</div>
@@ -1032,7 +1032,7 @@ Faster and Flexible.</a></h6>
 								<li><span class="fa fa-calendar"></span>September 12, 2019</li>
 								<li><span class="fa fa-user"></span>Admin</li>
 							</ul>
-							<h5><a href="blog-single.html">Food industry leaders often change their promoters.</a></h5>
+							<h5><a href="blog-single.php">Food industry leaders often change their promoters.</a></h5>
 							<a href="#" class="theme-btn btn-style-eighteen">View more</a>
 						</div>
 					</div>
@@ -1100,7 +1100,7 @@ Faster and Flexible.</a></h6>
 						<div class="quote-form">
 								
 							<!--Contact Form-->
-							<form method="post" action="contact.html">
+							<form method="post" action="contact.php">
 								<div class="row clearfix">
 								
 									<div class="form-group col-lg-6 col-md-6 col-sm-12">

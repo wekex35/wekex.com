@@ -12,13 +12,13 @@
                             <div class="footer-column col-lg-7 col-md-6 col-sm-12">
                                 <div class="footer-widget logo-widget">
 									<div class="logo">
-										<a href="index-3.html"><img src="images/footer-logo.png" alt="" /></a>
+										<a href="index.php"><img src="images/footer-logo.png" alt="" /></a>
 									</div>
-									<div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</div>
+									<div class="text">We work to make something great.</div>
 									<ul class="list-style-two">
-										<li><span class="icon fa fa-phone"></span> +123 (4567) 890</li>
-										<li><span class="icon fa fa-envelope"></span> info@financ.com</li>
-										<li><span class="icon fa fa-home"></span>380 St Kilda Road, Melbourne <br> VIC 3004, Australia</li>
+										<li><span class="icon fa fa-phone"></span>+91 744 765 1040</li>
+										<li><span class="icon fa fa-envelope"></span> info@wekex.com</li>
+										<li><span class="icon fa fa-home"></span>New Home Residency, Yashwant shrusti <br> Boisar 401501, Maharashtra</li>
 									</ul>
 								</div>
 							</div>
@@ -28,11 +28,11 @@
                                 <div class="footer-widget links-widget">
 									<h4>Links</h4>
 									<ul class="list-link">
-										<li><a href="index-3.html">Home</a></li>
-										<li><a href="services-2.html">Services</a></li>
-										<li><a href="about.html">About us</a></li>
+										<li><a href="index.php">Home</a></li>
+										<li><a href="services.php">Services</a></li>
+										<li><a href="about.php">About us</a></li>
 										<li><a href="">Tecnology</a></li>
-										<li><a href="contact.html">Contact</a></li>
+										<li><a href="contact.php">Contact</a></li>
 									</ul>
 								</div>
 							</div>
@@ -49,12 +49,12 @@
                                 <div class="footer-widget links-widget">
 									<h4>Support</h4>
 									<ul class="list-link">
-										<li><a href="contact.html">Contact Us</a></li>
-										<li><a href="">Submit a Ticket</a></li>
+										<li><a href="contact.php">Contact Us</a></li>
+										<!-- <li><a href="">Submit a Ticket</a></li>
 										<li><a href="">Visit Knowledge Base</a></li>
 										<li><a href="">Support System</a></li>
-										<li><a href="">Refund Policy</a></li>
-										<li><a href="">Professional Services</a></li>
+										<li><a href="">Refund Policy</a></li> -->
+										<li><a href="services.php">Professional Services</a></li>
 									</ul>
 								</div>
 							</div>
@@ -97,7 +97,7 @@
 					
 					<!-- Copyright Column -->
 					<div class="copyright-column col-lg-6 col-md-6 col-sm-12">
-						<div class="copyright">2019 &copy; All rights reserved by <a href="#">Themexriver</a></div>
+						<div class="copyright">2019 &copy; All rights reserved by <a href="#">wekex.com</a></div>
 					</div>
 					
 					<!-- Social Column -->
