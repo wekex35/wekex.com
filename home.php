@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Wekex</title>
+
 <!-- Stylesheets  -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
@@ -24,7 +25,7 @@
 <div class="page-wrapper">
  	
     <!-- Preloader -->
-    <div class="preloader"></div>
+   <!--  <div class="preloader"></div> -->
  	
     <!-- Main Header-->
     <header class="main-header header-style-three">
@@ -217,7 +218,7 @@
 							<span class="icon flaticon-business-and-finance-1"></span>
 						</div>
 						<h6><a href="#">E-Commerce Solutions</a></h6>
-						<div class="text">As a professional retail & ecommerce web/app development company, we develop exceptionally original e-commerce solutions for small and mid-scale businesses of industry verticals <!-- viz. real estate, healthcare, apparels, retail and more. Our eCommerce development team is committed to delivering solutions on time and within the budget. --> </div>
+						<div class="text">As a professional retail & ecommerce web/app development company, we develop exceptionally original e-commerce solutions for small and mid-scale businesses of industry verticals </div>
 					</div>
 				</div>
 				
@@ -245,9 +246,9 @@
 				
 			</div>
 			<!-- Services Text -->
-			<!-- <div class="services-text">
+			<div class="services-text">
 				<div class="text">We are very happy to give the best service.  <a href="services">Let’s view all services</a></div>
-			</div> -->
+			</div>
 			
 		</div>
 	</section>
@@ -1061,11 +1062,3 @@ Faster and Flexible.</a></h6>
     <!--End Map Info Section-->
 	
 	<!--Main Footer-->
-    <?php
-
-    include 'footer.php';
-
-     ?>
-
-</body>
-</html>

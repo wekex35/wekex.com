@@ -1,5 +1,3 @@
-
-
 <?php
 // header('Content-type:Application/json');
 
@@ -22,6 +20,18 @@ array_splice($path, 1, 1);
 <head>
 <meta charset="utf-8">
 <title>WEKEX | <?php echo  strtoupper (strlen($path[1]) < 1? "Home": $path[1] ); ?></title>
+<meta name="Description" content="We are here to manage your
+Complete IT World with experience">
+<meta name="Keywords" content="Boisar,Website Development, Android Development, IOS development, In boisar, IOT, Circuit designing,e commerce, ai/ml solutions ">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-76323205-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-76323205-7');
+</script>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
@@ -81,9 +91,9 @@ switch ($path[1]) {
 		}
 		break;
 }
-
-if ($path[1] != "home" && strlen($path[1]) > 0 ) {
 	include 'footer.php';
+if ($path[1] != "home" && strlen($path[1]) > 0 ) {
+
 ?>
 
 	
@@ -104,13 +114,29 @@ if ($path[1] != "home" && strlen($path[1]) > 0 ) {
 <script src="http://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
 <script src="js/map-script.js"></script>
 <!--End Google Map APi-->
+  
 
-</body>
-</html>
 
 <?php 
 
 }
 	
-
 ?>
+  
+  <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/57622e17eb544cb33e8dbeae/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+</body>
+</html>
+  
+  
