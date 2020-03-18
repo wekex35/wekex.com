@@ -39,7 +39,7 @@
 								<div class="icon flaticon-coins"></div>
 								<h5><a href="services-single">Website Development</a></h5>
 							</div>
-							<div class="text">Excepteur sint occaecat cupidatat non proi dent, sunt in culpa qui officia deserunt mollit anim id est laborum</div>
+							<div class="text">We pioneer in custom website development. From food management to industrial management, our custom made web applications cater to all needs and niches.</div>
 						</div>
 					</div>
 				</div>
@@ -58,7 +58,7 @@
 								<div class="icon flaticon-hand-shake-1"></div>
 								<h5><a href="iot">IOT Solutions</a></h5>
 							</div>
-							<div class="text">Excepteur sint occaecat cupidatat non proi dent, sunt in culpa qui officia deserunt mollit anim id est laborum</div>
+							<div class="text">From integrating the right sensors and deriving inspired insights to choosing the best-fit platform, we provide comprehensive IoT services to our clients.</div>
 						</div>
 					</div>
 				</div>
@@ -78,7 +78,7 @@
 								<div class="icon flaticon-man"></div>
 								<h5><a href="#">Android & IOS App</a></h5>
 							</div>
-							<div class="text">Excepteur sint occaecat cupidatat non proi dent, sunt in culpa qui officia deserunt mollit anim id est laborum</div>
+							<div class="text">Extend the web presence and customer portal to mobile devices for a better connect with customers.</div>
 						</div>
 					</div>
 				</div>
@@ -98,7 +98,7 @@
 								<div class="icon flaticon-car"></div>
 								<h5><a href="#">Software Development</a></h5>
 							</div>
-							<div class="text">Excepteur sint occaecat cupidatat non proi dent, sunt in culpa qui officia deserunt mollit anim id est laborum</div>
+							<div class="text">Conceptualize, build, deliver and manage the custom software which will best fit for your requiremnt we all always ready to start from scratch.</div>
 						</div>
 					</div>
 				</div>
@@ -117,7 +117,7 @@
 								<div class="icon flaticon-data"></div>
 								<h5><a href="#">E-Commerce Solutions</a></h5>
 							</div>
-							<div class="text">Excepteur sint occaecat cupidatat non proi dent, sunt in culpa qui officia deserunt mollit anim id est laborum</div>
+							<div class="text">All in one package for complete e-commerce development from website to desktop application from android to IOS.</div>
 						</div>
 					</div>
 				</div>
@@ -138,7 +138,8 @@
 								<div class="icon flaticon-chart"></div>
 								<h5><a href="#">AI/ML Solutions</a></h5>
 							</div>
-							<div class="text">Excepteur sint occaecat cupidatat non proi dent, sunt in culpa qui officia deserunt mollit anim id est laborum</div>
+							<div class="text">By combining our expertise in Artificial Intelligence and Machine Learning with your
+business knowledge, we are here to provide innovative solutions to your problems.</div>
 						</div>
 					</div>
 				</div>

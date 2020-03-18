@@ -10,7 +10,7 @@ $baseurl = "/php/";
 
 
 $path = explode("/", $requestPath);
-array_splice($path, 1, 1); 
+// array_splice($path, 1, 1); 
 
 ?>
 

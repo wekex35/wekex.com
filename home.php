@@ -889,8 +889,8 @@ Faster and Flexible.</a></h6>
 							</div>
 							<div class="lower-box">
 								<h6><a href="#">Contact us first</a></h6>
-								<div class="text">Lorem ipsum dolor sit amet, csectetur adipis icing.</div>
-								<a class="contact" href="#">Contact us <span class="arrow fa fa-angle-right"></span></a>
+							<!-- 	<div class="text">Lorem ipsum dolor sit amet, csectetur adipis icing.</div>
+								<a class="contact" href="#">Contact us <span class="arrow fa fa-angle-right"></span></a> -->
 							</div>
 						</div>
 					</div>
@@ -906,8 +906,8 @@ Faster and Flexible.</a></h6>
 							</div>
 							<div class="lower-box">
 								<h6><a href="#">Consult with us</a></h6>
-								<div class="text">Lorem ipsum dolor sit amet, csectetur adipis icing.</div>
-								<a class="contact" href="#">Contact us <span class="arrow fa fa-angle-right"></span></a>
+								<!-- <div class="text">Lorem ipsum dolor sit amet, csectetur adipis icing.</div>
+								<a class="contact" href="#">Contact us <span class="arrow fa fa-angle-right"></span></a> -->
 							</div>
 						</div>
 					</div>
@@ -923,8 +923,8 @@ Faster and Flexible.</a></h6>
 							</div>
 							<div class="lower-box">
 								<h6><a href="#">Place Order</a></h6>
-								<div class="text">Lorem ipsum dolor sit amet, csectetur adipis icing.</div>
-								<a class="contact" href="#">Contact us <span class="arrow fa fa-angle-right"></span></a>
+								<!-- <div class="text">Lorem ipsum dolor sit amet, csectetur adipis icing.</div>
+								<a class="contact" href="#">Contact us <span class="arrow fa fa-angle-right"></span></a> -->
 							</div>
 						</div>
 					</div>
@@ -940,8 +940,8 @@ Faster and Flexible.</a></h6>
 							</div>
 							<div class="lower-box">
 								<h6><a href="#">Make Payment</a></h6>
-								<div class="text">Lorem ipsum dolor sit amet, csectetur adipis icing.</div>
-								<a class="contact" href="#">Contact us <span class="arrow fa fa-angle-right"></span></a>
+								<!-- <div class="text">Lorem ipsum dolor sit amet, csectetur adipis icing.</div>
+								<a class="contact" href="#">Contact us <span class="arrow fa fa-angle-right"></span></a> -->
 							</div>
 						</div>
 					</div>

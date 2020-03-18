@@ -11,39 +11,38 @@ $completeMessage = "";
 $senderEmail  = "";
 $userName  = "";
 
+$completeMessage = '<html><body>';
+$completeMessage .= '<img src="http://css-tricks.com/examples/WebsiteChangeRequestForm/images/wcrf-header.png" alt="Website Change Request" />';
+$completeMessage .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
+
 $type = isset( $_POST['topic'] ) ? preg_replace( "/[^\.\-\' a-zA-Z0-9]/", "", $_POST['type'] ) : "";
+$userName = isset( $_POST['firstname'] ) ? preg_replace( "/[^\.\-\' a-zA-Z0-9]/", "", $_POST['firstname'] ) : "";
+$senderEmail = isset( $_POST['email'] ) ? preg_replace( "/[^\.\-\' a-zA-Z0-9]/", "", $_POST['email'] ) : "";
+$phone = isset( $_POST['phone'] ) ? preg_replace( "/[^\.\-\' a-zA-Z0-9]/", "", $_POST['phone'] ) : "";
+$message = isset( $_POST['message'] ) ? preg_replace( "/(From:|To:|BCC:|CC:|Subject:|Content-Type:)/", "", $_POST['message'] ) : "";
 
 		if($type == "contact"){
 			$topic = isset( $_POST['topic'] ) ? preg_replace( "/[^\.\-\' a-zA-Z0-9]/", "", $_POST['topic'] ) : "";
-			$userName = isset( $_POST['firstname'] ) ? preg_replace( "/[^\.\-\' a-zA-Z0-9]/", "", $_POST['firstname'] ) : "";
-			$senderEmail = isset( $_POST['email'] ) ? preg_replace( "/[^\.\-\' a-zA-Z0-9]/", "", $_POST['email'] ) : "";
-			$phone = isset( $_POST['email'] ) ? preg_replace( "/[^\.\-\' a-zA-Z0-9]/", "", $_POST['phone'] ) : "";
-			$message = isset( $_POST['message'] ) ? preg_replace( "/(From:|To:|BCC:|CC:|Subject:|Content-Type:)/", "", $_POST['message'] ) : "";
-
-			$completeMessage .= "Topic : ".$topic."<br>"
-			."Name : ".$userName."<br>"
-			."Email : ".$senderEmail."<br>"
-			."Phone : ".$phone."<br>"
-			."Message : ".$message."<br>";
-
-
+			$completeMessage .= "<tr><td><strong>Topic :</strong> </td><td>" . $topic . "</td></tr>";
 		}else{
-			$userName = isset( $_POST['firstname'] ) ? preg_replace( "/[^\.\-\' a-zA-Z0-9]/", "", $_POST['firstname'] ) : "";
-			$senderEmail = isset( $_POST['email'] ) ? preg_replace( "/[^\.\-\' a-zA-Z0-9]/", "", $_POST['email'] ) : "";
-			$phone = isset( $_POST['email'] ) ? preg_replace( "/[^\.\-\' a-zA-Z0-9]/", "", $_POST['phone'] ) : "";
-			$message = isset( $_POST['message'] ) ? preg_replace( "/(From:|To:|BCC:|CC:|Subject:|Content-Type:)/", "", $_POST['message'] ) : "";
-
-			$completeMessage .= ""
-			."Name : ".$userName."<br>"
-			."Email : ".$senderEmail."<br>"
-			."Phone : ".$phone."<br>"
-			."Message : ".$message."<br>";
+			
 		}
+
+		$completeMessage .= "<tr style='background: #eee;'><td><strong>Name:</strong> </td><td>" .$userName. "</td></tr>";
+		$completeMessage .= "<tr><td><strong>Email:</strong> </td><td>" . $senderEmail . "</td></tr>";
+		$completeMessage .= "<tr><td><strong>Phone :</strong> </td><td>" . $phone . "</td></tr>";
+		$completeMessage .= "<tr><td><strong>Message :</strong> </td><td>" . $message . "</td></tr>";
+		$completeMessage .= "</table>";
+			$completeMessage .= "</body></html>";
+
+
 
 // If all values exist, send the email
 if ( $userName && $senderEmail && $completeMessage) {
   $recipient = RECIPIENT_NAME . " <" . RECIPIENT_EMAIL . ">";
   $headers = "From: " . $userName . " <" . $senderEmail . ">";
+  $headers .= "MIME-Version: 1.0\r\n";
+  $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
   $msgBody = " Message: " . $completeMessage . "";
 
   $success = mail( $recipient, $headers, $msgBody );
