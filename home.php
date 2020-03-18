@@ -4,6 +4,19 @@
 <meta charset="utf-8">
 <title>Wekex</title>
 
+<meta name="Description" content="We are here to manage your
+Complete IT World with experience">
+<meta name="Keywords" content="Boisar,Website Development, Android Development, IOS development, In boisar, IOT, Circuit designing,e commerce, ai/ml solutions ">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-76323205-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-76323205-7');
+</script>
+
 <!-- Stylesheets  -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
